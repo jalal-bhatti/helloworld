@@ -1,6 +1,7 @@
 {
     "name": "vdc/helloworld",
     "description": "helloworld",
+    "minimum-stability": "dev",
     "require": {
         "magento/magento-composer-installer": "*"
     },
