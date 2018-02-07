@@ -1,12 +1,12 @@
 {
     "name": "vdc/helloworld",
     "description": "helloworld",
-    "minimum-stability": "dev",
+	"minimum-stability": "dev",
     "require": {
         "magento/magento-composer-installer": "*"
     },
     "type": "magento2-module",
-    "version": "2.2.2",
+    "version": "1.0.4",
     "extra":
 			{	"map":
 				[
