@@ -1,0 +1,26 @@
+{
+    "name": "vdc/helloworld",
+    "description": "helloworld",
+    "require": {
+        "magento/magento-composer-installer": "*"
+    },
+    "type": "magento2-module",
+    "version": "2.2.2",
+    "extra":
+			{	"map":
+				[
+					[
+						"*",
+						"vdc/helloworld"
+					]
+				]
+			},
+	"repositories":
+		[
+			{
+				"type":"composer",
+				"url":"https://github.com/jalal-bhatti/helloworld"
+			}
+		]
+   
+}
