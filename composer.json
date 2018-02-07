@@ -24,12 +24,6 @@
 					]
 				]
 			},
-	"repositories":
-		[
-			{
-				"type":"composer",
-				"url":"https://github.com/jalal-bhatti/helloworld"
-			}
-		]
+	
    
 }
